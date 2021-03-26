@@ -4,6 +4,12 @@
     "pages/test/test"
   ],
   "window": {
-    "backgroundTextStyle": "light"
-  }
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Naive Music",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true,
+    "onReachBottomDistance": 50
+  },
+  "sitemapLocation": "sitemap.json"
 }
