@@ -1,0 +1,23 @@
+{
+  "name": "NaiveMusic",
+  "version": "1.0.0",
+  "description": "- \t:new: 2021.3.27  Update search input / 更新搜索框",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikkatech/NaiveMusic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikkatech/NaiveMusic/issues"
+  },
+  "homepage": "https://github.com/rikkatech/NaiveMusic#readme",
+  "dependencies": {
+    "@vant/weapp": "^1.6.8"
+  }
+}

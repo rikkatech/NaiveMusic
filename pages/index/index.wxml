@@ -1,4 +1,4 @@
-<view class="weui-search-bar">
+<!-- <view class="weui-search-bar">
   <view class="weui-search-bar__form">
     <view class="weui-search-bar__box">
       <icon class="weui-icon-search_in-box" type="search" size="14"></icon>
@@ -24,4 +24,7 @@
       >搜索</text
     >
   </view>
-</view>
+</view> -->
+<div>
+  <van-button type="primary">按钮</van-button>
+</div>
